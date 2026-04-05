@@ -2877,6 +2877,15 @@ categories:
           crypto-currencies (Bitcoin, Monero, Ethereum etc..) and don't require any personal informations. They resell from
           reputable providers.
 
+        - name: DarkVPS
+          url: https://darkvps.pro
+          acceptsCrypto: true
+          description: |
+            DarkVPS provides bulletproof VPS and cloud servers hosted in Bulgaria with instant automated provisioning.
+            They accept crypto-currencies and don't require personal information. Features include automatic IP rotation
+            on blacklist detection, multiple OS options (Debian, Ubuntu, Windows Server, AlmaLinux, FreeBSD) and
+            unmetered 300Mbps bandwidth.
+
       notableMentions: |
         See also: [1984](https://www.1984.is) based in Iceland.
         [Shinjiru](http://shinjiru.com?a_aid=5e401db24a3a4), which offers off-shore dedicated servers.
